@@ -4,3 +4,7 @@ nombre: Jonathan
 apellidop: Lugo
 apellidom: Rosales
 edad: 31
+eureka:
+	client:
+		serviceUrl:
+			defaultZone: http://localhost:9000/eureka/
